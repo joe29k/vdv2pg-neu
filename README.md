@@ -1,4 +1,6 @@
 **This is a fork of https://github.com/geops/vdv2pg intended to (hopefully; WIP) fix the incompatibilites with newer Python as well as allowing direct access to main function without executing "special scripts"** 
+
+*As I only put this up for testing purposes, I do NOT recommend using this in any productive environment!*
 ---------------------------------------------
 
 Tool for dumping VDV 451 data into a database
