@@ -1,4 +1,5 @@
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=geops/vdv2pg)](https://dependabot.com)
+**This is a fork of https://github.com/geops/vdv2pg intended to (hopefully; WIP) fix the incompatibilites with newer Python as well as allowing direct access to main function without executing "special scripts"** 
+---------------------------------------------
 
 Tool for dumping VDV 451 data into a database
 ---------------------------------------------
