@@ -17,7 +17,7 @@ known constraints for a schema following the VDV 452 standard.
 
 ### Installation
 
-    pip install vdv2pg
+    pip install git+https://github.com/joe29k/vdv2pg-neu.git
 
 
 ### Usage
